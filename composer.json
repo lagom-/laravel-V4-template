@@ -4,7 +4,7 @@
 		"anahkiasen/former": "dev-agnostic",
 		"laravel/curl": "dev-master",
 		"awareness/aware": "dev-master",
-		"jasonlewis/basset": "dev-master"
+		"jasonlewis/expressive-date": "1.0.*"
 	},
 	"autoload": {
 		"classmap": [
