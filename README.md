@@ -8,7 +8,7 @@ $ `curl -sS https://getcomposer.org/installer | php-cgi-5.4`
 
 **Step 2:**
 
-$ `git clone git://github.com/lagom-/laravel-start-up.git`
+$ `git clone git://github.com/lagom-/laravel-V4-template.git`
 
 **Step 3:**
 
