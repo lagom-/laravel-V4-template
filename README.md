@@ -40,12 +40,20 @@ In the `aliases` array add:
 `'Former' => 'Former\Facades\Illuminate'`
 
 # Sources
-(https://github.com/laravel/framework)
+https://github.com/laravel/framework
+
 https://github.com/mogetutu/laravel-curl
+
 https://github.com/Anahkiasen/former
+
 https://github.com/awareness/aware
+
 https://github.com/jasonlewis/expressive-date
+
 https://github.com/twitter/bootstrap
+
 https://github.com/todc/todc-bootstrap
-https://github.com/eternicode/bootstrap-datepicker
-https://github.com/jdewit/bootstrap-timepicker
+
+https://github.com/eternicode/bootstrap-datepicker (soon)
+
+https://github.com/jdewit/bootstrap-timepicker (soon)
