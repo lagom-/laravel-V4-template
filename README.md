@@ -29,11 +29,11 @@ $ `php-cli-5.4 artisan key:generate`
 # Configuration
 In `app/config/app.php` change
 
-`'url'` => `'http://your-website.com'`
+`'url' => 'http://your-website.com'`
 
-`'timezone'` => `'Europe/Stockholm'`
+`'timezone' => 'Europe/Stockholm'`
 
-`'locale'` => `'swedish'`
+`'locale' => 'swedish'`
 
 In the `provider` array add:
 
