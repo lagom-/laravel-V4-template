@@ -8,15 +8,11 @@ $ `curl -sS https://getcomposer.org/installer | php-cgi-5.4`
 
 **Step :**
 
-[**Download the latest version of the Laravel framework and extract its contents into the directory.**](https://github.com/laravel/laravel/archive/develop.zip)
+Download the latest version of the [**Laravel framework**](https://github.com/laravel/laravel/archive/develop.zip) and extract its contents into the directory.
 
 **Step :**
 
-[**Download the latest version of this branch and extract its contents into the same directory, owerwrite files when asked.**](https://github.com/lagom-/laravel-V4-template/archive/master.zip)
-
-$ `wget https://raw.github.com/lagom-/laravel-V4-template/master/composer.json --no-check-certificate`
-
-$ `git clone git://github.com/lagom-/laravel-V4-template.git && rm -rf laravel-V4-template/.git && rm -rf laravel-V4-template/.json`
+Download the latest version of this [**branch**](https://github.com/lagom-/laravel-V4-template/archive/master.zip) and extract its contents into the same directory, owerwrite files when asked.
 
 **Step :**
 
