@@ -1,26 +1,32 @@
 # Installation
 
-Navigate to the root of your webserver and then follow these steps
+Navigate to the root of a directory on your server and then follow these steps
 
-**Step 1:**
+**Step :**
 
 $ `curl -sS https://getcomposer.org/installer | php-cgi-5.4`
 
-**Step 2:**
+**Step :**
+
+[**Download the latest version of the Laravel framework and extract its contents into the directory.**](https://github.com/laravel/laravel/archive/develop.zip)
+
+**Step :**
+
+[**Download the latest version of this branch and extract its contents into the same directory, owerwrite files when asked.**](https://github.com/lagom-/laravel-V4-template/archive/master.zip)
 
 $ `wget https://raw.github.com/lagom-/laravel-V4-template/master/composer.json --no-check-certificate`
 
 $ `git clone git://github.com/lagom-/laravel-V4-template.git && rm -rf laravel-V4-template/.git && rm -rf laravel-V4-template/.json`
 
-**Step 3:**
+**Step :**
 
 $ `php-cli-5.4 composer.phar install`
 
-**Step 4:**
+**Step :**
 
 $ `php-cli-5.4 composer.phar update`
 
-**Step 5:**
+**Step :**
 
 $ `php-cli-5.4 artisan:key generate`
 
