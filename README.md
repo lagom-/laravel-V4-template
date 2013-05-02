@@ -38,6 +38,7 @@ In `app/config/app.php` change
 In the `provider` array add:
 
 `'Former\FormerServiceProvider',
+
 'ExpressiveDateServiceProvider'`
 
 In the `aliases` array add:
