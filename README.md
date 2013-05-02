@@ -1,7 +1,7 @@
 laravel-start-up
 ================
 
-Config
+Configuration
 ================
 
 Sources
