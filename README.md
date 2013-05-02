@@ -1,6 +1,7 @@
 # Installation
 Navigate to the root of your webserver and then follow these steps
 **Step 1:**
+
 $ `curl -sS https://getcomposer.org/installer | php-cgi-5.4`
 
 ### Step 2:
