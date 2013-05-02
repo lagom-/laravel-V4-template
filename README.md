@@ -2,29 +2,29 @@
 
 Navigate to the root of a directory on your server and then follow these steps
 
-**Step :**
+**Step 1:**
 
 $ `curl -sS https://getcomposer.org/installer | php-cgi-5.4`
 
-**Step :**
+**Step 2:**
 
 Download the latest version of the [**Laravel framework**](https://github.com/laravel/laravel/archive/develop.zip) and extract its contents into the directory.
 
-**Step :**
+**Step 3:**
 
 Download the latest version of this [**branch**](https://github.com/lagom-/laravel-V4-template/archive/master.zip) and extract its contents into the same directory, owerwrite files when asked.
 
-**Step :**
+**Step 4:**
 
 $ `php-cli-5.4 composer.phar install`
 
-**Step :**
+**Step 5:**
 
 $ `php-cli-5.4 composer.phar update`
 
-**Step :**
+**Step 6:**
 
-$ `php-cli-5.4 artisan:key generate`
+$ `php-cli-5.4 artisan key:generate`
 
 # Configuration
 In `app/config/app.php` change
