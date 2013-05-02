@@ -35,6 +35,8 @@ In the `provider` array add:
 
 `'Former\FormerServiceProvider'`
 
+`ExpressiveDateServiceProvider`
+
 In the `aliases` array add:
 
 `'Former' => 'Former\Facades\Illuminate'`
