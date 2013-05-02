@@ -19,7 +19,8 @@ $ `php-cli-5.4 composer.phar update`
 $ `php-cli-5.4 artisan:key generate`
 
 # Configuration
-In `app/config/app.php` change this:
+In `app/config/app.php` change
+
 `'url' => 'http://your-website.com'`
 `'timezone' => 'Europe/Stockholm'`
 `'locale' => 'swedish'`
