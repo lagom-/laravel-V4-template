@@ -1,0 +1,4 @@
+class AjaxController extends BaseController {
+
+
+}
