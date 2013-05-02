@@ -1,8 +1,8 @@
 {
   "require": {
 		"laravel/framework": "4.0.*",
-		"anahkiasen/former": "dev-agnostic",
 		"laravel/curl": "dev-master",
+		"anahkiasen/former": "dev-agnostic",
 		"awareness/aware": "dev-master",
 		"jasonlewis/expressive-date": "1.0.*"
 	},
